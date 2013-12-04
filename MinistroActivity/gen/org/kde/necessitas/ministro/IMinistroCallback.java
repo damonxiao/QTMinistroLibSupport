@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /home/damon/ssh_mount_point/newCode/TI-Android-AM335x/packages/apps/MinistroActivity/src/org/kde/necessitas/ministro/IMinistroCallback.aidl
+ * Original file: /home/damon/mygit_resp/QT_ministro/MinistroActivity/MinistroActivity/src/org/kde/necessitas/ministro/IMinistroCallback.aidl
  */
 package org.kde.necessitas.ministro;
 public interface IMinistroCallback extends android.os.IInterface
